@@ -1,4 +1,4 @@
-# DDR
+# Data Distribution Routing
 With continuous advancements in robotics and networking, 
 the adoption of smart industrial machines for automation has grown 
 significantly. Leveraging the Robot Operating System version 2 (ROS-2) and its
