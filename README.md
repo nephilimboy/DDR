@@ -1,6 +1,6 @@
 # Data Distribution Routing
 
-## Updating and submitting to CodeOcean...
+## Updating the readme and the code...
 
 With continuous advancements in robotics and networking, 
 the adoption of smart industrial machines for automation has grown 
